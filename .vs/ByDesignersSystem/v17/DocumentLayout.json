@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexg\\ByDesignersSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\detallecotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\detallecotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\formcotizaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\formcotizaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\proovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\proovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\clienteempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\clienteempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\bydesigners.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\bydesigners.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\formmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\formmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\pagotransferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\pagotransferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\pagoefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\pagoefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\itemcotizable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\itemcotizable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|c:\\users\\alexg\\bydesignerssystem\\bydesigners.app\\clienteparticular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0CD4F-99F8-48FD-AEAE-ED3AF8542248}|ByDesigners.App\\ByDesigners.App.csproj|solutionrelative:bydesigners.app\\clienteparticular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCotizaciones.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\FormCotizaciones.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\FormCotizaciones.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\FormCotizaciones.cs",
+              "RelativeToolTip": "ByDesigners.App\\FormCotizaciones.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAqwAwBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:11:04.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\FormPrincipal.cs",
+              "RelativeToolTip": "ByDesigners.App\\FormPrincipal.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAuwEAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T18:31:31.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\Program.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\Program.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\Program.cs",
+              "RelativeToolTip": "ByDesigners.App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T18:24:08.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetalleCotizacion.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\DetalleCotizacion.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\DetalleCotizacion.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\DetalleCotizacion.cs",
+              "RelativeToolTip": "ByDesigners.App\\DetalleCotizacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:52:07.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proovedor.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\Proovedor.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\Proovedor.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\Proovedor.cs",
+              "RelativeToolTip": "ByDesigners.App\\Proovedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:51:26.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trabajador.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\Trabajador.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\Trabajador.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\Trabajador.cs",
+              "RelativeToolTip": "ByDesigners.App\\Trabajador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:50:00.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\ClienteEmpresa.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\ClienteEmpresa.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\ClienteEmpresa.cs",
+              "RelativeToolTip": "ByDesigners.App\\ClienteEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:33:55.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cotizacion.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\Cotizacion.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\Cotizacion.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\Cotizacion.cs",
+              "RelativeToolTip": "ByDesigners.App\\Cotizacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:52:56.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormPago.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\FormPago.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\FormPago.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\FormPago.cs",
+              "RelativeToolTip": "ByDesigners.App\\FormPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:33:35.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ByDesigners.App.csproj",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\ByDesigners.App.csproj",
+              "RelativeDocumentMoniker": "ByDesigners.App\\ByDesigners.App.csproj",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\ByDesigners.App.csproj",
+              "RelativeToolTip": "ByDesigners.App\\ByDesigners.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-13T00:30:03.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormCliente.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\FormCliente.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\FormCliente.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\FormCliente.cs",
+              "RelativeToolTip": "ByDesigners.App\\FormCliente.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAqwLoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T18:43:31.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormMueble.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\FormMueble.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\FormMueble.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\FormMueble.cs",
+              "RelativeToolTip": "ByDesigners.App\\FormMueble.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAqwNwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T20:15:56.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\Pago.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\Pago.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\Pago.cs",
+              "RelativeToolTip": "ByDesigners.App\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:42:02.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\ConexionDB.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\ConexionDB.cs",
+              "RelativeToolTip": "ByDesigners.App\\ConexionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:34:06.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\Cliente.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\Cliente.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\Cliente.cs",
+              "RelativeToolTip": "ByDesigners.App\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:32:33.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PagoTransferencia.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\PagoTransferencia.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\PagoTransferencia.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\PagoTransferencia.cs",
+              "RelativeToolTip": "ByDesigners.App\\PagoTransferencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:47:52.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PagoEfectivo.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\PagoEfectivo.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\PagoEfectivo.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\PagoEfectivo.cs",
+              "RelativeToolTip": "ByDesigners.App\\PagoEfectivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:46:43.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemCotizable.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\ItemCotizable.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\ItemCotizable.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\ItemCotizable.cs",
+              "RelativeToolTip": "ByDesigners.App\\ItemCotizable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T01:21:11.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteParticular.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\ClienteParticular.cs",
+              "RelativeDocumentMoniker": "ByDesigners.App\\ClienteParticular.cs",
+              "ToolTip": "C:\\Users\\alexg\\ByDesignersSystem\\ByDesigners.App\\ClienteParticular.cs",
+              "RelativeToolTip": "ByDesigners.App\\ClienteParticular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:33:30.731Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
